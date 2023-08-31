@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+ }
+.header img{
+	width: 175px;
+}
+.header{
+	background-color: #FFEBCD;
+	padding: 20px 135px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.header ul{
+	display: flex;
+	justify-content: space-between;
+	width:50%;
+	list-style-type: none;
+}
+.trang1 img{
+	width:45%;
+	padding-right: 50px;
+}
+.trang1{
+	background-color: #FFFAF0;
+	padding:100px 150px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.text h1{
+	padding-bottom: 50px;
+}
+.text h4{
+    padding-bottom: 50px;
+}
+.text p{
+    padding-bottom: 50px;
+}
+.trang2 img{
+	width:45%;
+	padding-left: 50px;
+}
+.trang2{
+	background-color: #F5F5F5;
+	padding:100px 150px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.trang3{
+	background-color: #F0F0F0;
+	padding:100px 150px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.bentrai{
+	float:left;
+	width:50%;
+}
+.trang3 h1{
+	padding-bottom: 45px;
+}
+.bentrai p{
+	padding-bottom: 45px;
+}
+.bentrai img{ 
+    width:100%;
+}
+.benphai{
+	float: right;
+	width: 40%;
+}
+.benphai img{
+	width:100%;
+}
+.benphai h1{
+	padding-top: 45px;
+}
+.benphai a{
+	background-color: black;
+	color: white;
+	padding: 10px 20px;
+}
+.trang4{
+	padding:120px 150px;
+	background-color:#F0F8FF;
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.chunho p{
+	padding: 30px 25px;
+}
+.trang5{
+	padding: 100px 150px;
+	background-color:#F8F8F8;
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.trang5 img{
+	width:100%;
+	padding-bottom: 20px;
+}
+
+.cot {
+	width:40%;
+	padding: 70px;
+	background: #FFF;
+    box-shadow: 0px 0px 7px 1px rgba(0, 0, 0, 0.08);
+    }
+.cot1 {
+	float:left;
+	
+}
+.cot2 {
+	float: right;
+}
+.trang5 a{
+	padding: 10px 20px;
+	background-color: #100000;
+	color: white;
+	margin-top: 20px;
+}
+.cot1 h1,p{
+	padding-bottom: 40px;
+}
+.cot2 h1{
+	padding-bottom: 40px;
+}
+
+
